@@ -1,0 +1,9 @@
+*.iml
+*.idea/
+*.project
+*.classpath
+*.settings/
+*target/
+*.orig
+/spy.log
+*.reviewboardrc
